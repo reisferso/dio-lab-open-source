@@ -41,14 +41,14 @@
   </thead>
   <tbody align="left">
     <tr>
-      <td> &nbps; </td>
-      <td> &nbps; </td>
-      <td> &nbps; </td>
+      <td> &nbsp; </td>
+      <td> &nbsp; </td>
+      <td> &nbsp; </td>
     </tr>
     <tr>
-      <td> &nbps; </td>
-      <td> &nbps; </td>
-      <td> &nbps; </td>   
+      <td> &nbsp; </td>
+      <td> &nbsp; </td>
+      <td> &nbsp; </td>   
     </tr>
   </tbody>
   <tfoot></tfoot>
